@@ -11,7 +11,6 @@
     "start:prod": "nitrostack-cli start",
     "upgrade": "nitrostack-cli upgrade",
     "install:all": "nitrostack-cli install",
-    "widget": "npm --prefix src/widgets",
     "seed": "tsx scripts/seed-csv.ts"
   },
   "dependencies": {
